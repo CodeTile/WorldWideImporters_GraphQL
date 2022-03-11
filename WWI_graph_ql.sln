@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWI_graph_ql", "WWI_graph_ql\WWI_graph_ql.csproj", "{31B747A8-E477-44F3-9074-5E07167794DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WWI.Data", "WWI.Data\WWI.Data.csproj", "{D35BDED5-2278-4D08-940B-104EB9FCC5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B747A8-E477-44F3-9074-5E07167794DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B747A8-E477-44F3-9074-5E07167794DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B747A8-E477-44F3-9074-5E07167794DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B747A8-E477-44F3-9074-5E07167794DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35BDED5-2278-4D08-940B-104EB9FCC5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35BDED5-2278-4D08-940B-104EB9FCC5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35BDED5-2278-4D08-940B-104EB9FCC5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35BDED5-2278-4D08-940B-104EB9FCC5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD266C1-C842-4F6D-B7F7-65227E306EA1}
+	EndGlobalSection
+EndGlobal
